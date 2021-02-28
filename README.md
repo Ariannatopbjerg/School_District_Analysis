@@ -1,6 +1,8 @@
 # School_District_Analysis
-### Programming software used: Anaconda, Jupyter Notebook; Language: Python
-### Code for analysis: [PyCitySchools](https://github.com/Ariannatopbjerg/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+**Programming software used: Anaconda, Jupyter Notebook; Language: Python**
+
+**Code for analysis: [PyCitySchools](https://github.com/Ariannatopbjerg/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)**
+
 ## Purpose of Analysis
 This analysis will assist a school board and super intendant with their school district data, in making decisions in regarding the school budgets and priorities. The school district data will be analyzed for insights about school performance trends and patterns for all standardize test taking. The insights will be used to inform discussions and strategic decisions at the school and district level. Unfortunately, the school board had found out that their data file shows evidence of academic dishonesty; specifically, math and reading scores for Thomas High School ninth grade. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. The data will be altered so that the dishonest scores will be removed from that data and the analysis with proceed. 
 

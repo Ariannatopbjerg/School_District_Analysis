@@ -30,7 +30,7 @@ Thomas high School did have a drastic change in their testing performance in rel
 **Links to summary dataframe and Thomas High School data can be found here:** [Updated School Summary](https://github.com/Ariannatopbjerg/School_District_Analysis/blob/main/images/school_summary_new.PNG) & [School Summary](https://github.com/Ariannatopbjerg/School_District_Analysis/blob/main/images/school_summary_old.PNG)
 
 #### Conclusion:
-The removal of the dishonest scores had improved Thomas high School's performance imensley. 
+The removal of the dishonest scores had improved Thomas high School's performance immensely.
 
 ### Analysis data that stayed the same:
 - Math and reading scores by grade
@@ -39,4 +39,4 @@ The removal of the dishonest scores had improved Thomas high School's performanc
 - Scores by school type
 
 #### Conclusion:
-Since the math and reading scores of the ninth graders at Thomas High School were replaced with Nan in the dataset, the rest of the scores by grade had no affect. Neither the other three analyses had any drastic changes to them.
+Since the math and reading scores of the ninth graders at Thomas High School were replaced with Nan in the dataset, the rest of the scores by grade had no effect. Neither the other three analyses had any drastic changes to them.

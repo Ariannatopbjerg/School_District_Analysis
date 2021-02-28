@@ -25,7 +25,7 @@ By removing the dishonest scores, there is a slight reduction to the percentages
 The only thing that changed with the school summary dataframe was that now, Thomas High School is the second best school in relation to performance scores. Rather than before the taking out of the ninth graders' scores, the school was third from the bottom.
 
 ### Thomas High School Performance Change
-Thomas high School did have a drastic change in their testing performance in relation to the rest of the schools in the district. Before the scores were removed from the summary, the passing percentages were among the 60s percentile. Once the scores were removed from the dataset, the percentages jumped up to be in the 90s percentile. 
+Thomas high School did have a drastic change in their testing performance in relation to the rest of the schools in the district. Before the scores were removed from the summary, the passing percentages were in the 60s. Once the scores were removed from the dataset, the percentages jumped up to be in the 90s. 
 
 **Links to summary dataframe and Thomas High School data can be found here:** [Updated School Summary](https://github.com/Ariannatopbjerg/School_District_Analysis/blob/main/images/school_summary_new.PNG) & [School Summary](https://github.com/Ariannatopbjerg/School_District_Analysis/blob/main/images/school_summary_old.PNG)
 
@@ -38,3 +38,5 @@ The removal of the dishonest scores had improved Thomas high School's performanc
 - Scores by school size
 - Scores by school type
 
+#### Conclusion:
+Since the math and reading scores of the ninth graders at Thomas High School were replaced with Nan in the dataset, the rest of the scores by grade had no affect. Neither the other three analyses had any drastic changes to them.

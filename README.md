@@ -8,13 +8,15 @@ This analysis will assist a school board and super intendant with their school d
 Having the data altered by removing the dishonest test scores for the analysis, there was some differences among the before and after district summary and school summary. 
 
 ### District Summary Changes
-**District summary with total test scores**
+**District summary with total test scores**:
 
-![](https://github.com/Ariannatopbjerg/School_District_Analysis/blob/main/images/districtsum_old.PNG)
-**District summary without dishonest test scores**
-![](https://github.com/Ariannatopbjerg/School_District_Analysis/blob/main/images/districtsum_new.PNG)
+![](https://github.com/Ariannatopbjerg/School_District_Analysis/blob/main/images/district_sum_old.PNG)
 
-#### Summary conclusion:
+**District summary without dishonest test scores**:
+
+![](https://github.com/Ariannatopbjerg/School_District_Analysis/blob/main/images/district_sum_new.PNG)
+
+#### Conclusion:
 By removing the dishonest scores, there is a slight reduction to the percentages of passing scores - 0.5% to 1% difference; which is not a huge significant difference. 
 
 ### School Summary Changes
@@ -25,7 +27,7 @@ Thomas high School did have a drastic change in their testing performance in rel
 
 **Links to summary dataframe and Thomas High School data can be found here:** [Updated School Summary](https://github.com/Ariannatopbjerg/School_District_Analysis/blob/main/images/school_summary_new.PNG) & [School Summary](https://github.com/Ariannatopbjerg/School_District_Analysis/blob/main/images/school_summary_old.PNG)
 
-#### Summary conclusion:
+#### Conclusion:
 The removal of the dishonest scores had improved Thomas high School's performance imensley. 
 
 ### Analysis data that stayed the same:
